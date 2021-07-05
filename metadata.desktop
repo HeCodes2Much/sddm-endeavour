@@ -1,0 +1,16 @@
+[SddmGreeterTheme]
+Name=Dracula Endeavour
+Description=The deapest theme around; Dark!
+Author=Wayne Wesley (TheRepoClub)
+Copyright=Copyright (C) 2021 Wayne Wesley
+License=MIT
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/The-Repo-Club/sddm-endeavour
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+TranslationsDirectory=translations
+Email=wayne6324@gmail.com
+Theme-Id=sddm-endeavour
+Theme-API=2.11
